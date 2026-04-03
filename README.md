@@ -1,16 +1,14 @@
 # Hi, I'm Supaisu 👋
 
-🔭 I'm currently working on building data warehouse and analytics projects using SQL Server
+Accounting and finance graduate building end-to-end data solutions using SQL Server and Python. Currently completing an MSc in Computer Science with Data Analytics.
 
-🌱 I'm currently learning SQL and Python, with a focus on SQL right now
+🔭 Currently building data warehouse and analytics projects using SQL Server
 
-💬 Ask me about SQL, data warehousing, ETL pipelines, and the medallion architecture
+🌱 Learning SQL and Python — focused on data engineering fundamentals
 
-👯 I'm looking to collaborate on data engineering and analytics projects
+💬 Ask me about SQL, data warehousing, ETL pipelines, and star schema design
 
-🎯 I'm aiming to land my first role as a Data Analyst or Data Engineer
-
-⚡ Fun fact: This is my first ever portfolio project and I'm loving the journey!
+👯 Open to collaborating on data engineering and analytics projects
 
 ---
 
