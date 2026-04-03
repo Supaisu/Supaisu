@@ -4,7 +4,7 @@ Accounting and finance graduate building end-to-end data solutions using SQL Ser
 
 🔭 Currently building data warehouse and analytics projects using SQL Server
 
-🌱 Learning SQL and Python — focused on data engineering fundamentals
+🌱 Learning SQL and Python focused on data engineering fundamentals
 
 💬 Ask me about SQL, data warehousing, ETL pipelines, and star schema design
 
