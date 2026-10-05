@@ -1,4 +1,4 @@
-# Hi, I'm Supaisu 👋
+# Welcome To My Github 👋
 
 Accounting and finance graduate building end-to-end data solutions using SQL Server and Python. Currently completing an MSc in Computer Science with Data Analytics.
 
