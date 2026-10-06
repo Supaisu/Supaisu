@@ -1,39 +1,34 @@
-# Hi, I'm Umair Cadir
+<p align="center">
+  <img src="assets/header.svg" alt="Umair Cadir – Data Analyst" width="100%">
+</p>
 
-**Data Analyst | MSc Computer Science with Data Analytics (University of York) | BSc Accounting & Finance (Royal Holloway)**
+<p align="center">
+  <a href="https://www.linkedin.com/in/umaircadir/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Open_to-Graduate_Data_Roles-2DD4BF?style=for-the-badge&labelColor=0B1220" alt="Open to graduate data roles">
+</p>
+
+### About me
 
 I turn messy business data into clean models, clear dashboards and decisions. My background in accounting and finance means I care about the numbers behind the numbers: reconciling sources, testing data quality, and explaining results to non-technical stakeholders.
 
-- Data Analyst Intern at **Covelopers** (summer 2026)
-- MSc dissertation: sentiment analysis of company **earnings call transcripts using FinBERT**
-- Based in London, open to **graduate Data Analyst / Analytics Engineer roles**
+- **Experience:** Data Analyst Intern at Covelopers (summer 2026)
+- **Research:** MSc dissertation on sentiment in company earnings call transcripts using FinBERT
+- **Looking for:** graduate Data Analyst and Analytics Engineer roles in London
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-umaircadir-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umaircadir/)
+### Featured projects
 
----
+<p align="center">
+  <a href="https://github.com/Supaisu/sql-data-warehouse-project"><img src="assets/card-warehouse.svg" alt="SQL Data Warehouse" width="32%"></a>
+  <a href="https://github.com/Supaisu/sql-data-analytics-project"><img src="assets/card-analytics.svg" alt="SQL Data Analytics" width="32%"></a>
+  <a href="https://github.com/Supaisu/student-performance-analysis"><img src="assets/card-students.svg" alt="Student Performance Prediction" width="32%"></a>
+</p>
 
-## Featured projects
+### Toolkit
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [**SQL Data Warehouse**](https://github.com/Supaisu/sql-data-warehouse-project) | Medallion (bronze/silver/gold) warehouse integrating CRM and ERP sources into a star schema, with ETL stored procedures and data quality tests | SQL Server, T-SQL, draw.io |
-| [**SQL Data Analytics**](https://github.com/Supaisu/sql-data-analytics-project) | EDA, trend, cumulative, segmentation and ranking analysis on the warehouse gold layer, plus customer and product reporting views | T-SQL, window functions, CTEs |
-| [**Student Performance Prediction & Segmentation**](https://github.com/Supaisu/student-performance-analysis) | Random Forest regression (R² 0.82) to predict grades, and K-Means clustering to group 1,044 students into four intervention profiles | Python, pandas, scikit-learn, seaborn |
-
----
-
-## Skills
-
-**Languages & querying:** Python, SQL (T-SQL), PySpark
-**Analysis & ML:** pandas, NumPy, scikit-learn, matplotlib, seaborn, FinBERT / Hugging Face Transformers
-**BI & reporting:** Power BI, Excel
-**Data engineering:** ETL pipelines, dimensional modelling (star schema), medallion architecture, data quality testing
-**Tools:** SQL Server / SSMS, Jupyter, Git & GitHub
-
----
-
-<div align="center">
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supaisu&layout=compact&hide_border=true)
-
-</div>
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
+| **Analysis & ML** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Hugging Face](https://img.shields.io/badge/FinBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **BI & reporting** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Data engineering** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![ETL](https://img.shields.io/badge/ETL_pipelines-334155?style=flat-square) ![Star schema](https://img.shields.io/badge/Star_schema-334155?style=flat-square) ![Medallion](https://img.shields.io/badge/Medallion_architecture-334155?style=flat-square) |
+| **Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
