@@ -1,71 +1,39 @@
-# Welcome To My Github 👋
+# Hi, I'm Umair Cadir
 
-Accounting and finance graduate building end-to-end data solutions using SQL Server and Python. Recently Completed an MSc in Computer Science with Data Analytics.
+**Data Analyst | MSc Computer Science with Data Analytics (University of York) | BSc Accounting & Finance (Royal Holloway)**
 
-🔭 Currently building data warehouse and analytics projects using SQL Server
+I turn messy business data into clean models, clear dashboards and decisions. My background in accounting and finance means I care about the numbers behind the numbers: reconciling sources, testing data quality, and explaining results to non-technical stakeholders.
 
-🌱 Learning SQL and Python focused on data engineering fundamentals
+- Data Analyst Intern at **Covelopers** (summer 2026)
+- MSc dissertation: sentiment analysis of company **earnings call transcripts using FinBERT**
+- Based in London, open to **graduate Data Analyst / Analytics Engineer roles**
 
-💬 Ask me about SQL, data warehousing, ETL pipelines, and star schema design
-
-👯 Open to collaborating on data engineering and analytics projects
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-### Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Data & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-umaircadir-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umaircadir/)
 
 ---
 
-## 📊 GitHub Stats
+## Featured projects
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [**SQL Data Warehouse**](https://github.com/Supaisu/sql-data-warehouse-project) | Medallion (bronze/silver/gold) warehouse integrating CRM and ERP sources into a star schema, with ETL stored procedures and data quality tests | SQL Server, T-SQL, draw.io |
+| [**SQL Data Analytics**](https://github.com/Supaisu/sql-data-analytics-project) | EDA, trend, cumulative, segmentation and ranking analysis on the warehouse gold layer, plus customer and product reporting views | T-SQL, window functions, CTEs |
+| [**Student Performance Prediction & Segmentation**](https://github.com/Supaisu/student-performance-analysis) | Random Forest regression (R² 0.82) to predict grades, and K-Means clustering to group 1,044 students into four intervention profiles | Python, pandas, scikit-learn, seaborn |
+
+---
+
+## Skills
+
+**Languages & querying:** Python, SQL (T-SQL), PySpark
+**Analysis & ML:** pandas, NumPy, scikit-learn, matplotlib, seaborn, FinBERT / Hugging Face Transformers
+**BI & reporting:** Power BI, Excel
+**Data engineering:** ETL pipelines, dimensional modelling (star schema), medallion architecture, data quality testing
+**Tools:** SQL Server / SSMS, Jupyter, Git & GitHub
+
+---
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Supaisu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Supaisu&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Supaisu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supaisu&layout=compact&hide_border=true)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Supaisu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 🔗 Projects
-
-[![Data Warehouse Project](https://img.shields.io/badge/SQL%20Data%20Warehouse-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/Supaisu/sql-data-warehouse-project)
-[![Data Analytics Project](https://img.shields.io/badge/SQL%20Data%20Analytics-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/Supaisu/sql-data-analytics-project)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Supaisu&icon=0&color=6)](https://visitcount.itsvg.in)
